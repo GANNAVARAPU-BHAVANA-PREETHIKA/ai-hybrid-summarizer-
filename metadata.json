@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Hybrid Summarizer",
+  "description": "A smart summarization tool that combines BERT and T5 extraction with Gemini's reasoning to produce high-quality executive summaries from text or documents.",
+  "requestFramePermissions": []
+}
